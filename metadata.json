@@ -1,0 +1,6 @@
+{
+  "name": "ServiGo – Unified Tertiary Services Platform",
+  "description": "Discover. Compare. Book. Experience. Access hospitality, retail, entertainment and personal spending tools through one unified platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
